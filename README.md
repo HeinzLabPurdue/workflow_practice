@@ -41,4 +41,6 @@ Features:
 14. `yawcamMonitor` - check chinchilla health status
 15. `latency` - latency tracking on NELs
 16. `Shutdown` - Shuts NEL off, saves current state
-17. 'SPRINT' - make sure all works for SPRINT
+
+18. 'SPRINT' - make sure all works for SPRINT
+17. 'test' - test repo for github 
